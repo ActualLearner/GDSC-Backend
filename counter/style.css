@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #222831;
+    color: #EEEEEE;
+}
+
+h1, p{
+    font-size: 8em;
+    margin-top: 3%;
+}
+
+
+#input {
+    padding: 7% 0;
+}
